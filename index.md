@@ -1,37 +1,152 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Ye Min Htet</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
-You can use the [editor on GitHub](https://github.com/yeminhtetAI/Data-Analyst-Portfolio-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+				<!-- Intro -->
+					<div id="intro">
+						<h1>Alex Freberg<br />
+						Portfolio</h1>
+						<p>Data Analyst well versed in SQL, Python, Tableau, Power BI <a href="https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg">@AlexTheAnalyst</a>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">Projects</a></li>
 
-```markdown
-Syntax highlighted code block
+						</ul>
+						<ul class="icons">
+							<li><a href="https://www.linkedin.com/in/alex-freberg/" class="icon brands fa-linkedin"><span class="label">fa-linkedin</span></a></li>
+							<li><a href="https://github.com/AlexTheAnalyst" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
 
-# Header 1
-## Header 2
-### Header 3
+				<!-- Main -->
+					<div id="main">
 
-- Bulleted
-- List
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<h2><a href="#">Data Cleaning<br />
+									in SQL</a></h2>
+									<p>In this project we take raw housing data and transform <br />
+									it in SQL Server to make it more usable for analysis.<br />
+									</p>
+								</header>
+								<a href="https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Data%20Cleaning%20Portfolio%20Project%20Queries.sql" class="image main"><img src="images\housing.jpg" alt="" /></a>
+								<ul class="actions special">
+									<li><a href="https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Data%20Cleaning%20Portfolio%20Project%20Queries.sql" class="button large">View Project</a></li>
+								</ul>
+							</article>
 
-1. Numbered
-2. List
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										<h2><a href="#">COVID 19<br />
+										Data Exploration</a></h2>
+									</header>
+									<a href="https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql" class="image fit"><img src="images/covid.jpg" alt="" /></a>
+									<p>In this project we use SQL Server to explore global COVID 19 data. </p>
+									<ul class="actions special">
+										<li><a href="https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<h2><a href="#">Tableau Dashboards<br />
+										</a></h2>
+									</header>
+									<a href="https://public.tableau.com/profile/alexander.freberg#!/?newProfile=&activeTab=0" class="image fit"><img src="images/tableau.jpg" alt="" /></a>
+									<p>Tableau Dashboards for projects on COVID 19, Financial Forecasting, and Fantasy Football </p>
+									<ul class="actions special">
+										<li><a href="https://public.tableau.com/profile/alexander.freberg#!/?newProfile=&activeTab=0" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<h2><a href="#">Movie Correlation<br />
+										with Python</a></h2>
+									</header>
+									<a href="github link here" class="image fit"><img src="images/movies.jpg" alt="" /></a>
+									<p>In this project we look at what variables effect the gross revenue from movies.</p>
+									<ul class="actions special">
+										<li><a href="github link here" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<h2><a href="#">Amazon Web Scraper<br />
+										with Python</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/amazon2.jpg" alt="" /></a>
+									<p>In this project we scrape data from Amazon to analyze price data for products.</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">View Project</a></li>
+									</ul>
+								</article>
+								
 
-**Bold** and _Italic_ and `Code` text
+				<!-- Footer -->
+					<footer id="footer">
 
-[Link](url) and ![Image](src)
-```
+						<section class="split contact">
+							<section class="alt">
+								<h3>Address</h3>
+								<p>1234 Somewhere Road #87257<br />
+								Dallas, Tx 12345-6789</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="#">(123) 456-7890</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">AlexTheAnalyst95@gmail.com</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="https://www.linkedin.com/in/alex-freberg/" class="icon brands fa-linkedin"><span class="label">fa-linkedin</span></a></li>
+							<li><a href="https://github.com/AlexTheAnalyst" class="icon brands fa-github"><span class="label">GitHub</span></a></li></ul>
+							</section>
+						</section>
+					</footer>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
 
-### Jekyll Themes
+			</div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yeminhtetAI/Data-Analyst-Portfolio-Project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	</body>
+</html>
