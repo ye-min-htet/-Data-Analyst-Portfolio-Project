@@ -6,10 +6,11 @@
 -->
 <html>
 	<head>
-		<title>Ye Min Htet</title>
+		<title>Massively by HTML5 UP</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
@@ -19,24 +20,29 @@
 
 				<!-- Intro -->
 					<div id="intro">
-						<h1>Ye Min Htet<br />
-						Portfolio</h1>
-						<p>Data Analyst well versed in SQL, Python, Tableau, Power BI <a href="https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg">@AlexTheAnalyst</a>
+						<h1>Mukesh Data Analyst Portfolio <br />
+						</h1>
+						<p>Data Analyst Skilled in SQL, Power-Bi,Tableau, Excel and Python <a href="https://twitter.com/ajlkn">@MukeshTheDataAnalyst
+						 </p>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
 					</div>
 
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">MUKESH THE ANALYST</a>
+					</header>
 
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
 							<li class="active"><a href="index.html">Projects</a></li>
-
+							
 						</ul>
 						<ul class="icons">
-							<li><a href="https://www.linkedin.com/in/alex-freberg/" class="icon brands fa-linkedin"><span class="label">fa-linkedin</span></a></li>
-							<li><a href="https://github.com/AlexTheAnalyst" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="https://www.linkedin.com/in/mukesh-sablani-9a4596184/" class="icon brands alt fa-linkedin"><span class="label">linkedin</span></a></li>
+							<li><a href="https://github.com/mukeshsablani3126/" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
 						</ul>
 					</nav>
 
@@ -46,91 +52,86 @@
 						<!-- Featured Post -->
 							<article class="post featured">
 								<header class="major">
-									<h2><a href="#">Data Cleaning<br />
-									in SQL</a></h2>
-									<p>In this project we take raw housing data and transform <br />
-									it in SQL Server to make it more usable for analysis.<br />
-									</p>
+									<span class="date">April 22, 2022</span>	
+									
+									<h2><a href="https://github.com/mukeshsablani3126/Data-Analyst-Portfolio-Project/blob/main/Data%20Cleaning%20Portfolio%20Project.sql">Data Cleaning in SQL<br />
+									</a></h2>
+									<p>In this Project We clean Housing  Data in SQL Server.</p>
 								</header>
-								<a href="https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Data%20Cleaning%20Portfolio%20Project%20Queries.sql" class="image main"><img src="images\housing.jpg" alt="" /></a>
+								<a href="#" class="image main"><img src="images/Housing image.jpg" alt="" /></a>
 								<ul class="actions special">
-									<li><a href="https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Data%20Cleaning%20Portfolio%20Project%20Queries.sql" class="button large">View Project</a></li>
+									<li><a href="https://github.com/mukeshsablani3126/Data-Analyst-Portfolio-Project/blob/main/Data%20Cleaning%20Portfolio%20Project.sql" class="button large">View Project</a></li>
 								</ul>
-							</article>
+						<!-- Featured Post -->
+								<article class="post featured">
+									<header class="major">
+										<span class="date">April 26, 2022</span>	
+										
+										<h2><a href="https://github.com/mukeshsablani3126/Data-Analyst-Portfolio-Project/blob/main/Movie_Portfolio%20Analysis%20Python%20Project.ipynb">Data Exploration in Python<br />
+										</a></h2>
+										<p>In this Project We Analyis Imdb Movies Data and correlations between variables.in Python.</p>
+									</header>
+									<a href="#" class="image main"><img src="images/imdb movies.png" alt="" /></a>
+									<ul class="actions special">
+										<li><a href="https://github.com/mukeshsablani3126/Data-Analyst-Portfolio-Project/blob/main/Movie_Portfolio%20Analysis%20Python%20Project.ipynb" class="button large">View Project</a></li>
+									</ul>
+							
 
 						<!-- Posts -->
 							<section class="posts">
 								<article>
 									<header>
-										<h2><a href="#">COVID 19<br />
-										Data Exploration</a></h2>
-									</header>
-									<a href="https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql" class="image fit"><img src="images/covid.jpg" alt="" /></a>
-									<p>In this project we use SQL Server to explore global COVID 19 data. </p>
-									<ul class="actions special">
-										<li><a href="https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql" class="button">View Project</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<h2><a href="#">Tableau Dashboards<br />
+										<span class="date">April 15, 2022</span>
+										<h2><a href="#">Data Exploration in SQL<br />
 										</a></h2>
 									</header>
-									<a href="https://public.tableau.com/profile/alexander.freberg#!/?newProfile=&activeTab=0" class="image fit"><img src="images/tableau.jpg" alt="" /></a>
-									<p>Tableau Dashboards for projects on COVID 19, Financial Forecasting, and Fantasy Football </p>
+									<a href="https://github.com/mukeshsablani3126/Data-Analyst-Portfolio-Project/blob/main/Covid_19%20SQL%20Project.sql" class="image fit"><img src="images/Covid image.jpg" alt="" /></a>
+									<p>Data Exploration of Covid-19 Dataset in SQL Server.</p>
 									<ul class="actions special">
-										<li><a href="https://public.tableau.com/profile/alexander.freberg#!/?newProfile=&activeTab=0" class="button">View Project</a></li>
+										<li><a href="https://github.com/mukeshsablani3126/Data-Analyst-Portfolio-Project/blob/main/Covid_19%20SQL%20Project.sql" class="button">View Project</a></li>
 									</ul>
-								</article>
-								<article>
-									<header>
-										<h2><a href="#">Movie Correlation<br />
-										with Python</a></h2>
+							<!-- Posts -->
+									<article class="post featured">
+									<header class="major">
+										<span class="date">May 30, 2022</span>	
+										<h2><a href="https://github.com/mukeshsablani3126/Data-Analyst-Portfolio-Project/blob/main/Global%20Sales%20Analysis%20Power%20Bi%20Project.png">Power Bi Projects<br />
+										</a></h2>
+										<p>This holds all of my Power Bi Project.</p>
 									</header>
-									<a href="github link here" class="image fit"><img src="images/movies.jpg" alt="" /></a>
-									<p>In this project we look at what variables effect the gross revenue from movies.</p>
+									<a href="https://github.com/mukeshsablani3126/Data-Analyst-Portfolio-Project/blob/main/Global%20Sales%20Analysis%20Power%20Bi%20Project.png" class="image main"><img src="images/Power Bi.png" alt="" /></a>
 									<ul class="actions special">
-										<li><a href="github link here" class="button">View Project</a></li>
+										<li><a href="https://github.com/mukeshsablani3126/Data-Analyst-Portfolio-Project/blob/main/Global%20Sales%20Analysis%20Power%20Bi%20Project.png" class="button large">View Project</a></li>
 									</ul>
-								</article>
-								<article>
-									<header>
-										<h2><a href="#">Amazon Web Scraper<br />
-										with Python</a></h2>
+						    <!-- Posts -->
+									<article class="post featured">
+									<header class ="major">
+										<span class="date">Aprile 12, 2022</span>
+										<h2><a href="https://public.tableau.com/app/profile/mukesh.sablani2270/viz/GlobalCovid-19DashboardAnalysis/Dashboard1">Tableau Projects<br />	
+										</a></h2>
+										<p>This holds all of my Tableau Dashboard Project.</p>
 									</header>
-									<a href="#" class="image fit"><img src="images/amazon2.jpg" alt="" /></a>
-									<p>In this project we scrape data from Amazon to analyze price data for products.</p>
+									<a href="https://public.tableau.com/app/profile/mukesh.sablani2270/viz/Kiva_loanproject/Dashboard1" class="image fit"><img src="images/Tableau image.jpg" alt="" /></a>
 									<ul class="actions special">
-										<li><a href="#" class="button">View Project</a></li>
+									<li><a href="https://public.tableau.com/app/profile/mukesh.sablani2270/viz/GlobalCovid-19DashboardAnalysis/Dashboard1" class="button">View Project</a></li>
 									</ul>
-								</article>
-								
-
-				<!-- Footer -->
-					<footer id="footer">
-
-						<section class="split contact">
-							<section class="alt">
-								<h3>Address</h3>
-								<p>1234 Somewhere Road #87257<br />
-								Dallas, Tx 12345-6789</p>
-							</section>
-							<section>
-								<h3>Phone</h3>
-								<p><a href="#">(123) 456-7890</a></p>
-							</section>
-							<section>
-								<h3>Email</h3>
-								<p><a href="#">AlexTheAnalyst95@gmail.com</a></p>
-							</section>
-							<section>
-								<h3>Social</h3>
-								<ul class="icons alt">
-									<li><a href="https://www.linkedin.com/in/alex-freberg/" class="icon brands fa-linkedin"><span class="label">fa-linkedin</span></a></li>
-							<li><a href="https://github.com/AlexTheAnalyst" class="icon brands fa-github"><span class="label">GitHub</span></a></li></ul>
-							</section>
-						</section>
-					</footer>
+								<section class="split contact">
+									<section class="alt">
+										<h3>location</h3>
+										<p><br/>
+										Gurgaon, IN 91-8769119816</p>
+										</section>
+										<h3>Phone</h3>
+										<p><a href="#">(91)-8769119816</a></p>
+										<section>
+										<h3>Email</h3>
+										<p><a href="#">mk24sablani@gmail.com</a></p>
+										<section>
+										<h3>Social</h3>
+										<ul class="icons alt">
+										<li><a href="https://www.linkedin.com/in/mukesh-sablani-9a4596184/" class="icon brands alt fa-linkedin"><span class="label">linkedin</span></a></li>
+										<li><a href="https://github.com/mukeshsablani3126/" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+										</ul>
+							
 
 				<!-- Copyright -->
 					<div id="copyright">
