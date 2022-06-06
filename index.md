@@ -19,7 +19,7 @@
 
 				<!-- Intro -->
 					<div id="intro">
-						<h1>Alex Freberg<br />
+						<h1>Ye Min Htet<br />
 						Portfolio</h1>
 						<p>Data Analyst well versed in SQL, Python, Tableau, Power BI <a href="https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg">@AlexTheAnalyst</a>
 						<ul class="actions">
